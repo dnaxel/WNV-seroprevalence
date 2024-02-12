@@ -19,3 +19,11 @@ install.packages(c("openxlsx", "RColorBrewer", "ggmap", "osmdata", "raster", "vi
 Open analysis_code.R in your preferred R environment (e.g., RStudio) and run the script to replicate the analyses presented in the publication.
 
 ## Citation:
+If you use the datasets or code provided in this repository for your research, please cite the publication:
+
+Alex De Nardi, Giovanni Marini, Ilaria Dorigatti, Roberto Rosà, Marco Tamba, Luca Gelmini, Alice Prosperi, Francesco Menegale, Piero Poletti, Mattia Calzolari, Andrea Pugliese. 2024. Quantifying the West Nile virus circulation in the avian host population in Northern Italy.
+
+## Contact:
+For any questions or inquiries regarding the datasets or code, please contact Alex De Nardi at alex.denardi@unitn.it.
+
+
