@@ -14,7 +14,7 @@ This repository contains datasets and R code related to the analysis presented i
 ## Usage: 
 ### Install required packages: 
 Ensure that you have the necessary R packages installed. You can install them using the following command:
-```{r}install.packages(c("openxlsx", "RColorBrewer", "ggmap", "osmdata", "raster", "viridis", "deSolve", "mvtnorm", "ggplot2", "cowplot", "latex2exp"))```
+```install.packages(c("openxlsx", "RColorBrewer", "ggmap", "osmdata", "raster", "viridis", "deSolve", "mvtnorm", "ggplot2", "cowplot", "latex2exp"))```
 ### Run the analysis script:
 Open analysis_code.R in your preferred R environment (e.g., RStudio) and run the script to replicate the analyses presented in the publication.
 
