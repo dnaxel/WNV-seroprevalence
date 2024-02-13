@@ -26,4 +26,6 @@ Alex De Nardi, Giovanni Marini, Ilaria Dorigatti, Roberto Rosà, Marco Tamba, Lu
 ## Contact:
 For any questions or inquiries regarding the datasets or code, please contact Alex De Nardi at alex.denardi@unitn.it.
 
+## Acknowledgements:
+This study was partially funded by EU grant 874850 MOOD (catalogued as MOOD 087) and by EU funding within the MUR PNRR Extended Partnership initiative on Emerging Infectious Diseases (Project no. PE00000007, INF-ACT) and the VERDI project (EU grant 101045989). The contents of this publication are the sole responsibility of the authors and don't necessarily reflect the views of the European Commission. This work was supported by the Italian Ministry of University and Research (MUR) through the PRIN 2020 project (No. 2020JLWP23) “Integrated Mathematical Approaches to Socio–Epidemiological Dynamics” (CUP: E15F21005420006).
 
