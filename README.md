@@ -13,7 +13,7 @@ This repository contains datasets and R code related to the analysis presented i
 
 ## Usage: 
 ### Clone the repository:
-```git clone https://github.com/yourusername/Research_Publication_Code.git```
+```git clone https://github.com/dnaxel/WNV-seroprevalence.git```
 
 ### Install required packages: 
 Ensure that you have the necessary R packages installed. You can install them using the following command:
