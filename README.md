@@ -12,6 +12,9 @@ This repository contains datasets and R code related to the analysis presented i
 *main.R*: this R script contains the code used for data preprocessing, bayesian inference, output analysis, and visualization. It is extensively commented to aid understanding and replication of the analyses conducted in the publication.
 
 ## Usage: 
+### Clone the repository:
+```git clone https://github.com/yourusername/Research_Publication_Code.git```
+
 ### Install required packages: 
 Ensure that you have the necessary R packages installed. You can install them using the following command:
 ```install.packages(c("openxlsx", "RColorBrewer", "ggmap", "osmdata", "raster", "viridis", "deSolve", "mvtnorm", "ggplot2", "cowplot", "latex2exp"))```
