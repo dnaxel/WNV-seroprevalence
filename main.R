@@ -275,8 +275,8 @@ emilia.borders$n_specimens[is.na(emilia.borders$TOTAL)] <- 0
 ### Get Map
 # an API key to download Stadia maps can be obtained at https://client.stadiamaps.com/signup/
 
-your.API.key <- "06cb6ca4-36bf-4d5a-b2be-8cc8abbdc3a5"
-register_stadiamaps(key = your.API.key)
+API.key <- "your-api-key"
+register_stadiamaps(key = API.key)
 map.emilia <- get_map(location = getbb("emilia-romagna"), maptype = "stamen_terrain_background", source = "stadia")
 
 ### Figure 1A (Bubble Plot)
