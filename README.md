@@ -18,6 +18,12 @@ This repository contains datasets and R code related to the analysis presented i
 ### Install required packages: 
 Ensure that you have the necessary R packages installed. You can install them using the following command:
 ```install.packages(c("openxlsx", "RColorBrewer", "ggmap", "osmdata", "raster", "viridis", "deSolve", "mvtnorm", "ggplot2", "cowplot", "latex2exp"))```
+
+### Set your API key:
+To produce the map plot (figure 1 of the publication), an API key to download Stadia maps is needed. The key can be obtained at the link https://client.stadiamaps.com/signup/. Then, edit the code at line 278 to add your API key:
+```API.key <- "your-api-key"
+register_stadiamaps(key = API.key)```
+
 ### Run the analysis script:
 Open analysis_code.R in your preferred R environment (e.g., RStudio) and run the script to replicate the analyses presented in the publication.
 
