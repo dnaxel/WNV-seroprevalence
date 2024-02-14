@@ -23,7 +23,7 @@ Ensure that you have the necessary R packages installed. You can install them us
 ### Set your API key:
 To produce the map plot (figure 1 of the publication), an API key to download Stadia maps is needed. The key can be obtained at the link https://client.stadiamaps.com/signup/. Then, edit the code at line 278 to add your API key:
 
-```API.key <- "your-api-key"```
+```API.key <- "your-api-key" \n register_stadiamaps(key = API.key)```
 
 ```register_stadiamaps(key = API.key)```
 
