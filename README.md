@@ -31,7 +31,7 @@ register_stadiamaps(key = API.key)
 ```
 
 ### Run the analysis script:
-Open analysis_code.R in your preferred R environment (e.g., RStudio) and run the script to replicate the analyses presented in the publication.
+Open main.R in your preferred R environment (e.g., RStudio) and run the script to replicate the analyses presented in the publication.
 
 ## Citation:
 If you use the datasets or code provided in this repository for your research, please cite the publication:
